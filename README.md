@@ -8,13 +8,13 @@ Due to scraping restrictions on real-world websites (like Amazon blocking automa
 
 ## 🎯 Objectives
 
--Simulate web scraping of product reviews
+- Simulate web scraping of product reviews
 
--Structure review data in a clean and analyzable format
+- Structure review data in a clean and analyzable format
 
--Generate a dataset suitable for further data analysis and visualization
+- Generate a dataset suitable for further data analysis and visualization
 
--Export the extracted data into CSV and Excel formats
+- Export the extracted data into CSV and Excel formats
 
 ## 🛠️ Technologies Used
 
